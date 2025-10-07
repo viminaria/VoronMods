@@ -1,0 +1,10 @@
+Based on Hartk's [Z Umbilical](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202-Trident/2.4/Voron2.4_Z_Umbilical), made for [PUG](https://www.printables.com/model/378567-pug-parametric-umbilical-gland)
+
+Removed the toolhead gland mount in favor of running toolhead umbilical through exhaust.
+
+BOM 
+|Part NO.  |Qty  |
+|--|--|
+M3x8 | 6
+M3x12-16 | 4
+M3 Tnuts | 6
