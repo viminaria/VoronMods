@@ -2,7 +2,7 @@ Based on Hartk's [Z Umbilical](https://github.com/hartk1213/MISC/tree/main/Voron
 
 Removed the toolhead gland mount in favor of running toolhead umbilical through exhaust.
 
-![image](https://github.com/viminaria/VoronMods/Umbilical_Z_PUG/images/render.png)
+![image](https://raw.githubusercontent.com/viminaria/VoronMods/refs/heads/main/Umbilical_Z_PUG/images/render.png)
 
 BOM 
 |Part NO.  |Qty  |
