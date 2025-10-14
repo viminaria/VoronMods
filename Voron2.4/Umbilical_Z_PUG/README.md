@@ -8,5 +8,5 @@ BOM
 |Part NO.  |Qty  |
 |--|--|
 M3x8 | 6
-M3x16 | 4
+M3x16 or M3x14 | 4
 M3 Tnuts | 6
